@@ -1,5 +1,5 @@
 export const REQUEST_SENT = 'REQUEST_SENT';
-export const address = 'http://localhost:3000/api/v1';
+export const address = 'http://120.27.92.163:8080/api/v1';
 
 export function requestSent(info) {
   return {
