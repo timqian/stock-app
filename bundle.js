@@ -25610,7 +25610,7 @@
 
 	var REQUEST_SENT = 'REQUEST_SENT';
 	exports.REQUEST_SENT = REQUEST_SENT;
-	var address = 'http://localhost:3000/api/v1';
+	var address = 'http://120.27.92.163:8080/api/v1';
 
 	exports.address = address;
 
@@ -26874,7 +26874,7 @@
 	Object.defineProperty(exports, '__esModule', {
 	  value: true
 	});
-	var BASEURL = 'http://localhost:3000';
+	var BASEURL = 'http://120.27.92.163:8080';
 	exports.BASEURL = BASEURL;
 
 /***/ },
